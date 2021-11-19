@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-**miguelxrmo/miguelxrmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 
 
 Just trying to survive college. Badly failing it.
 
